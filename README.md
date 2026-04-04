@@ -5,10 +5,9 @@
 
 ## 🧠 About Me
 
-- 🎓 B.Tech CSE @ SRM IST (GPA: 9.54/10)
+- 🎓 B.Tech CSE Pre-final Year
 - 🔬 Research Intern @ IIIT Hyderabad (Neural Rendering, 3D Vision)
 - 🧪 Focused on **Computer Vision, LLMs, and Probabilistic ML**
-- 📄 Publications in **AAIMB 2026 (Springer)** and **IEEE INDIACOM 2026**
 - ⚡ Interested in **bridging research → real-world AI systems**
 
 ---
@@ -78,11 +77,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditi2k5&show_icons=true&theme=tokyonight" height="150"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://streak-stats.demolab.com?user=Aditi2k5&theme=tokyonight&hide_border=true" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi2k5&layout=compact&theme=tokyonight" height="150"/>
 
 </div>
 
