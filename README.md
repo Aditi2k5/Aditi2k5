@@ -1,15 +1,66 @@
-<h1 align="center">Hey 👋, I'm Aditi</h1>
-<h3 align="center">Building AI-powered web apps • Exploring ML & Systems</h3>
+<h1 align="center">Hi 👋, I'm Aditi Prabakaran</h1>
+<h3 align="center">AI/ML Researcher • 3D Vision • LLM Systems • Neural Rendering</h3>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 💻 Frontend developer with a strong focus on **React / Next.js ecosystems**
-- 🤖 Currently exploring **AI/ML, Computer Vision, and LLM applications**
-- 🧠 Interested in **research + real-world product building**
-- 🛠️ Building projects that combine **design + intelligence**
-- 🎯 Goal: Work on impactful AI systems & pursue higher studies
+- 🎓 B.Tech CSE @ SRM IST (GPA: 9.54/10)
+- 🔬 Research Intern @ IIIT Hyderabad (Neural Rendering, 3D Vision)
+- 🧪 Focused on **Computer Vision, LLMs, and Probabilistic ML**
+- 📄 Publications in **AAIMB 2026 (Springer)** and **IEEE INDIACOM 2026**
+- ⚡ Interested in **bridging research → real-world AI systems**
+
+---
+
+## 🔬 Research Work
+
+### 🧩 Neural Rendering & 3D Vision
+- Developed **CLIP-guided 3D Gaussian Splatting framework**
+- Semantic scoring + opacity regularization + pruning
+- Improved reconstruction quality and removed transient artifacts
+
+### 📊 Bridge Risk Estimation (AAIMB 2026)
+- Probabilistic framework using **NGBoost**
+- Modeled latent structural variables (stress/strain)
+- Risk-based prioritization using uncertainty estimation
+
+### 🤖 Hallucination Mitigation in LLMs (IEEE INDIACOM 2026)
+- Applied **LoRA + PEFT fine-tuning**
+- Improved faithfulness up to **+49.8%**
+- Reduced hallucination via calibration optimization
+
+---
+
+## ⚙️ Experience
+
+### 🔹 Research Intern — IIIT Hyderabad
+- Multi-view 3D reconstruction in dynamic environments
+- Gaussian Splatting + Vision-Language supervision
+
+### 🔹 Summer Research Fellow — IAS
+- Benchmarked **NeRF variants (Instant-NGP, SSDNeRF, RobustNeRF)**
+- Optimized for compute efficiency vs accuracy trade-offs
+
+### 🔹 AI Intern — Saarc Masts Tech
+- Built **RAG pipelines (LangChain + FastAPI + WebSockets)**
+- Designed production-ready LLM workflows
+
+### 🔹 AI Intern — Himitsu Lab
+- Multi-agent LLM reasoning visualization (AntV X6)
+- AI meeting assistant (real-time transcription + summarization)
+
+---
+
+## 🚀 Projects
+
+### 🌫️ Air Pollution Forecasting (SIH Finalist)
+- LSTM-based temporal modeling (multi-station fusion)
+- R²: **0.92 (O₃), 0.88 (NO₂)**
+
+### 🛒 Grocery Price Prediction (Amazon ML Challenge)
+- Time-aware forecasting with **XGBoost**
+- SMAPE: **48.91**
 
 ---
 
@@ -17,60 +68,31 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,go,rust,nestjs,py,aws" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,opencv,sklearn,aws" />
 
 </div>
 
 ---
 
-## 🧪 Projects & Work
-
-### 🔹 CodeSync
-> A Tinder-style collaboration platform for developers  
-- Swipe-based matching system for team formation  
-- Built using **React + modern UI principles**
-
----
-
-### 🔹 AI Flashcard Generator
-> AI-powered language learning tool  
-- Generates flashcards dynamically using AI  
-- Stack: **Next.js, TypeScript, Clerk, Groq API**
-
----
-
-### 🔹 Legal Simplifier Chatbot
-> Converts complex legal text into simple explanations  
-- Focus on **UX + accessibility**
-- Full-page chatbot UI with clean interaction flow
-
----
-
-### 🔹 Ecomate 🌱
-> Sustainability tracking dashboard  
-- Tracks water & electricity usage  
-- Provides intelligent suggestions based on trends  
-- Environmental UI theme with persistent navbar
-
----
-
-## 🧠 Current Interests
-
-- 🧩 Computer Vision (NeRF, 3D Vision, Gaussian Splatting)
-- 🔍 Applied Machine Learning
-- ⚡ System Design for AI Products
-- 🧠 Human-centered AI Interfaces
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
 
 </div>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Smart India Hackathon 2025 — **Top 5 National Finalist**
+- 🌏 Google AI for Impact Hackathon — **Top 98 (APAC)**
+- 🎓 IAS Summer Research Fellowship Recipient
 
 ---
 
@@ -78,34 +100,32 @@
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/aditi-prabakaran">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_TWITTER_URL">
+<a href="https://twitter.com/adip_cv">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="YOUR_DISCORD">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="YOUR_DEVTO">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+<a href="mailto:aditi.p.aicv@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## ⚡ Fun Section
+## ⚡ Research Interests
 
-- 🧠 I enjoy breaking down complex systems into simple ideas  
-- 🎨 I care a lot about **UI aesthetics + smooth UX**
-- 🚀 Always building, rarely satisfied
+- Neural Rendering (NeRF, Gaussian Splatting)
+- 3D Scene Understanding
+- LLM Alignment & Hallucination Mitigation
+- Probabilistic ML & Uncertainty Modeling
+- Real-time AI Systems
 
 ---
 
 <p align="center">
-  ⭐️ If you like my work, feel free to explore my repositories!
+  ⚡ Open to research collaborations, internships, and AI-focused opportunities
 </p>
