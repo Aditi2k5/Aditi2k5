@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditi Prabakaran</h1>
+<p align="center">
+  <img width="1982" height="793" alt="image" src="https://github.com/user-attachments/assets/3a483639-1c69-4bcb-888a-13dbfc5b0d81" />
+</p>
 <h3 align="center">AI/ML Researcher • 3D Vision • LLM Systems • Neural Rendering</h3>
 
----
 
 ## 🧠 About Me
 
@@ -67,7 +69,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,opencv,sklearn,aws" />
+<img src="https://skillicons.dev/icons?i=python,anaconda,tensorflow,pytorch,fastapi,flask,opencv,sklearn,git,firebase,supabase,mysql,sqlite,nodejs,nextjs,react" />
 
 </div>
 
