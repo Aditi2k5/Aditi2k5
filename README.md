@@ -43,33 +43,11 @@
 - Benchmarked **NeRF variants (Instant-NGP, SSDNeRF, RobustNeRF)**
 - Optimized for compute efficiency vs accuracy trade-offs
 
-### 🔹 AI Intern — Saarc Masts Tech
-- Built **RAG pipelines (LangChain + FastAPI + WebSockets)**
-- Designed production-ready LLM workflows
-
-### 🔹 AI Intern — Himitsu Lab
-- Multi-agent LLM reasoning visualization (AntV X6)
-- AI meeting assistant (real-time transcription + summarization)
-
----
-
-## 🚀 Projects
-
-### 🌫️ Air Pollution Forecasting (SIH Finalist)
-- LSTM-based temporal modeling (multi-station fusion)
-- R²: **0.92 (O₃), 0.88 (NO₂)**
-
-### 🛒 Grocery Price Prediction (Amazon ML Challenge)
-- Time-aware forecasting with **XGBoost**
-- SMAPE: **48.91**
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,anaconda,tensorflow,pytorch,fastapi,flask,opencv,sklearn,git,firebase,supabase,mysql,sqlite,nodejs,nextjs,react" />
+<img src="https://skillicons.dev/icons?i=python,anaconda,tensorflow,pytorch,fastapi,flask,opencv,sklearn,git,supabase" />
 
 </div>
 
