@@ -12,15 +12,24 @@
 - 🧪 Focused on **Computer Vision, LLMs, and Probabilistic ML**
 - ⚡ Interested in **bridging research → real-world AI systems**
 
+
+---
+
+## ⚙️ Research Experience
+### 3D Vision & Neural Rendering (IIIT Hyderabad, Research Intern)
+
+- Developed a **CLIP-guided 3D Gaussian Splatting framework** integrating custom opacity regularization and dynamic point cloud pruning.
+- Integrated **Vision-Language supervision** to improve semantic scene understanding and eliminate transient reconstruction artifacts.
+- Optimized multi-view 3D reconstruction modules to stabilize novel view synthesis within dynamic, non-static environments.
+
+### Neural Radiance Fields & View Synthesis (Indian Academy of Sciences, Summer Research Fellow)
+
+- Profiled and evaluated key foundational NeRF variants (`Instant-NGP`, `SSDNeRF`, `RobustNeRF`) across complex localized datasets.
+- Optimized rendering pipelines to improve convergence speed, balancing real-time frame-rate throughput against structural Peak Signal-to-Noise Ratio (PSNR) metrics.
+
 ---
 
 ## 🔬 Research Work
-
-### 🧩 Neural Rendering & 3D Vision
-- Developed **CLIP-guided 3D Gaussian Splatting framework**
-- Semantic scoring + opacity regularization + pruning
-- Improved reconstruction quality and removed transient artifacts
-
 ### 📊 Bridge Risk Estimation (AAIMB 2026)
 - Probabilistic framework using **NGBoost**
 - Modeled latent structural variables (stress/strain)
@@ -31,37 +40,12 @@
 - Improved faithfulness up to **+49.8%**
 - Reduced hallucination via calibration optimization
 
----
-
-## ⚙️ Experience
-
-### 🔹 Research Intern — IIIT Hyderabad
-- Multi-view 3D reconstruction in dynamic environments
-- Gaussian Splatting + Vision-Language supervision
-
-### 🔹 Summer Research Fellow — IAS
-- Benchmarked **NeRF variants (Instant-NGP, SSDNeRF, RobustNeRF)**
-- Optimized for compute efficiency vs accuracy trade-offs
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,anaconda,tensorflow,pytorch,fastapi,flask,opencv,sklearn,git,supabase" />
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditi2k5&show_icons=true&theme=tokyonight" height="150"/>
-
-<img src="https://streak-stats.demolab.com?user=Aditi2k5&theme=tokyonight&hide_border=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi2k5&layout=compact&theme=tokyonight" height="150"/>
+<img src="https://skillicons.dev/icons?i=python,anaconda,tensorflow,pytorch,fastapi,flask,opencv,sklearn,git,supabase, docker" />
 
 </div>
 
@@ -100,7 +84,6 @@
 - Neural Rendering (NeRF, Gaussian Splatting)
 - 3D Scene Understanding
 - LLM Alignment & Hallucination Mitigation
-- Probabilistic ML & Uncertainty Modeling
 - Real-time AI Systems
 
 ---
