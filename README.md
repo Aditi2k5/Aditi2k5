@@ -45,8 +45,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,anaconda,tensorflow,pytorch,fastapi,flask,opencv,sklearn,git,supabase, docker" />
-
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,linux,docker,git" />
 </div>
 
 ---
