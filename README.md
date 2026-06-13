@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,linux,docker,git" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,linux,docker" />
 </div>
 
 ---
