@@ -28,16 +28,6 @@
 - Optimized rendering pipelines to improve convergence speed, balancing real-time frame-rate throughput against structural Peak Signal-to-Noise Ratio (PSNR) metrics.
 
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,linux,docker" />
-</div>
-
----
-
-
 ## 🏆 Achievements
 
 - 🏅 Smart India Hackathon 2025 — **Top 5 National Finalist**
@@ -52,7 +42,15 @@
 
 **Core Contribution:** Developed an experimental framework utilizing parameter-efficient fine-tuning (PEFT) and calibration optimization to evaluate factual faithfulness metrics and quantify model confidence boundaries.
 
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,linux,docker" />
+</div>
+
 ---
+
 
 ## 🌐 Connect With Me
 
