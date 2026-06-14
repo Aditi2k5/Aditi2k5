@@ -31,8 +31,8 @@
 ## 🏆 Achievements
 
 - 🏅 Smart India Hackathon 2025 — **Top 5 National Finalist** — Finalist out of ~50,000+ national applicants in the Ministry of Education's flagship engineering competition. <br><br>
-- 🌏 Google AI for Impact Hackathon — **Top 98 (APAC)** 
-      Selected into the final cohort of 98 teams out of thousands of competing teams across the Asia-Pacific (APAC) region.
+- 🌏 Google AI for Impact Hackathon — **Top 98 (APAC)** —
+      Selected into the final cohort of 98 teams out of thousands of competing teams across the Asia-Pacific (APAC) region. <br>
 - 🎓 IAS Summer Research Fellowship Recipient — National fellowship awarded by the Indian Academy of Sciences; selection rate historically under 2%.
 
 ## 📜 Papers Published
