@@ -52,7 +52,7 @@
 
 ## 🏆 Achievements
 
-- 🥇 Smart India Hackathon 2025 — **Top 5 National Finalist**
+- 🏅 Smart India Hackathon 2025 — **Top 5 National Finalist**
 - 🌏 Google AI for Impact Hackathon — **Top 98 (APAC)**
 - 🎓 IAS Summer Research Fellowship Recipient
 
