@@ -37,7 +37,7 @@
 
 ## 📜 Papers Published
 
-**A. Prabakaran**, et al., "Calibration Optimization and PEFT Fine-Tuning for Hallucination Mitigation in Large Language Models," *Proceedings of the IEEE INDIACOM Conference*, 2026
+**A. Prabakaran**, et al., "Targeted Data Augmentation for Hallucination Mitigation and Faithfulness Enhancement in Compact LLMs," *Proceedings of the IEEE INDIACOM Conference*, 2026
 
 **Core Contribution:** Developed an experimental framework utilizing parameter-efficient fine-tuning (PEFT) and calibration optimization to evaluate factual faithfulness metrics and quantify model confidence boundaries.
 
