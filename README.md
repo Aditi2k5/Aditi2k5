@@ -2,7 +2,7 @@
 <p align="center">
   <img width="1982" height="793" alt="image" src="https://github.com/user-attachments/assets/3a483639-1c69-4bcb-888a-13dbfc5b0d81" />
 </p>
-<h3 align="center">AI/ML Researcher • 3D Vision • LLM Systems • Neural Rendering</h3>
+<h3 align="center">AI/ML Researcher • 3D Vision • Neural Rendering • LLM Systems</h3>
 
 
 ## 🧠 About Me
