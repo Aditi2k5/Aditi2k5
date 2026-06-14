@@ -32,7 +32,7 @@
 
 - 🏅 Smart India Hackathon 2025 — **Top 5 National Finalist**
 - 🌏 Google AI for Impact Hackathon — **Top 98 (APAC)**
-- 🎓 IAS Summer Research Fellowship Recipient
+- 🎓 IAS Summer Research Fellowship Recipient: Selected as a Top 100 team out of thousands of competing teams across the Asia-Pacific (APAC) region)
 
 
 
