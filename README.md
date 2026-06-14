@@ -27,19 +27,6 @@
 - Profiled and evaluated key foundational NeRF variants (`Instant-NGP`, `SSDNeRF`, `RobustNeRF`) across complex localized datasets.
 - Optimized rendering pipelines to improve convergence speed, balancing real-time frame-rate throughput against structural Peak Signal-to-Noise Ratio (PSNR) metrics.
 
----
-
-## 🔬 Research Work
-### 📊 Bridge Risk Estimation (AAIMB 2026)
-- Probabilistic framework using **NGBoost**
-- Modeled latent structural variables (stress/strain)
-- Risk-based prioritization using uncertainty estimation
-
-### 🤖 Hallucination Mitigation in LLMs (IEEE INDIACOM 2026)
-- Applied **LoRA + PEFT fine-tuning**
-- Improved faithfulness up to **+49.8%**
-- Reduced hallucination via calibration optimization
-
 
 ## 🧰 Tech Stack
 
