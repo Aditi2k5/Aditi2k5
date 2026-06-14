@@ -50,11 +50,19 @@
 
 ---
 
+
 ## 🏆 Achievements
 
 - 🏅 Smart India Hackathon 2025 — **Top 5 National Finalist**
 - 🌏 Google AI for Impact Hackathon — **Top 98 (APAC)**
 - 🎓 IAS Summer Research Fellowship Recipient
+
+
+## 🏆 Papers Published
+
+**A. Prabakaran**, et al., "Calibration Optimization and PEFT Fine-Tuning for Hallucination Mitigation in Large Language Models," *Proceedings of the IEEE INDIACOM Conference*, 2026
+
+**Core Contribution:** Developed an experimental framework utilizing parameter-efficient fine-tuning (PEFT) and calibration optimization to evaluate factual faithfulness metrics and quantify model confidence boundaries.
 
 ---
 
