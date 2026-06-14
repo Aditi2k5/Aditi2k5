@@ -9,7 +9,7 @@
 
 - 🎓 B.Tech CSE Pre-final Year
 - 🔬 Research Intern @ IIIT Hyderabad (Neural Rendering, 3D Vision)
-- 🧪 Focused on **Computer Vision, LLMs, and Probabilistic ML**
+- 🧪 Focused on **3D Computer Vision and Neural Rendering**
 - ⚡ Interested in **bridging research → real-world AI systems**
 
 
@@ -76,16 +76,6 @@
 
 </div>
 
----
-
-## ⚡ Research Interests
-
-- Neural Rendering (NeRF, Gaussian Splatting)
-- 3D Scene Understanding
-- LLM Alignment & Hallucination Mitigation
-- Real-time AI Systems
-
----
 
 <p align="center">
   ⚡ Open to research collaborations, internships, and AI-focused opportunities
