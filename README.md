@@ -27,19 +27,23 @@
 - Profiled and evaluated key foundational NeRF variants (`Instant-NGP`, `SSDNeRF`, `RobustNeRF`) across complex localized datasets.
 - Optimized rendering pipelines to improve convergence speed, balancing real-time frame-rate throughput against structural Peak Signal-to-Noise Ratio (PSNR) metrics.
 
-
-## 🏆 Achievements
-
-- 🏅 **Smart India Hackathon 2025 | National Finalist (Top 5)**   — Selected as a Top 5 finalist from over 50,000 national applicants in the Ministry of Education's flagship engineering competition. <br><br>
-- 🌏 **Google AI for Impact Hackathon** —
-      Selected into the final cohort of 98 teams out of thousands of competing teams across the Asia-Pacific (APAC) region. <br><br>
-- 🎓 **IAS Summer Research Fellowship Recipient** — National fellowship awarded by the Indian Academy of Sciences (IAS); selection rate historically under 2%.
-
 ## 📜 Papers Published
 
 **A. Prabakaran**, et al., "Targeted Data Augmentation for Hallucination Mitigation and Faithfulness Enhancement in Compact LLMs," *Proceedings of the IEEE INDIACOM Conference*, 2026
 
 **Core Contribution:** Developed an experimental framework utilizing parameter-efficient fine-tuning (PEFT) and calibration optimization to evaluate factual faithfulness metrics and quantify model confidence boundaries.
+
+## Projects
+
+### Adaptive Quick-Commerce Route Planning using Cooperative MARL
+- Developed a **QMIX-based cooperative multi-agent reinforcement learning framework** for dynamic delivery routing under traffic, weather, rider health, and delivery urgency constraints.
+- Integrated **Yen’s K-Shortest Paths, real-world road networks, and flood-prioritized experience replay** to improve robustness under adverse conditions.
+- Evaluated the system across multiple city environments using **delivery cost, SLA compliance, route efficiency, and fleet coordination** metrics.
+
+### Targeted Data Augmentation for Hallucination Mitigation in Compact LLMs
+- Proposed a **targeted data augmentation strategy** to reduce hallucinations and improve faithfulness in compact language models.
+- Designed experiments around **failure-specific augmentation and controlled evaluation** to measure factual consistency and reliability improvements.
+- Published the work at **INDIACom 2026 (IEEE)** as *“Targeted Data Augmentation for Hallucination Mitigation and Faithfulness Enhancement in Compact LLMs.”*
 
 ## 🧰 Tech Stack
 
@@ -47,6 +51,17 @@
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,linux,docker" />
 </div>
+
+
+
+## 🏆 Achievements
+
+- 🎓 **IASc Summer Research Fellowship Recipient** — National fellowship awarded by the Indian Academy of Sciences (IAS); selection rate historically under 2%.
+- 🏅 **Smart India Hackathon 2025 | National Finalist (Top 5)**   — Selected as a Top 5 finalist from over 50,000 national applicants in the Ministry of Education's flagship engineering competition. <br><br>
+- 🌏 **Google AI for Impact Hackathon** —
+      Selected into the final cohort of 98 teams out of thousands of competing teams across the Asia-Pacific (APAC) region. <br><br>
+
+
 
 ---
 
