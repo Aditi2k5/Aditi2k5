@@ -45,14 +45,6 @@
 - Designed experiments around **failure-specific augmentation and controlled evaluation** to measure factual consistency and reliability improvements.
 - Published the work at **INDIACom 2026 (IEEE)** as *“Targeted Data Augmentation for Hallucination Mitigation and Faithfulness Enhancement in Compact LLMs.”*
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,linux,docker" />
-</div>
-
-
 
 ## 🏆 Achievements
 
@@ -60,6 +52,13 @@
 - 🏅 **Smart India Hackathon 2025 | National Finalist (Top 5)**   — Selected as a Top 5 finalist from over 50,000 national applicants in the Ministry of Education's flagship engineering competition. <br><br>
 - 🌏 **Google AI for Impact Hackathon** —
       Selected into the final cohort of 98 teams out of thousands of competing teams across the Asia-Pacific (APAC) region. <br><br>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,linux,docker" />
+</div>
 
 
 
