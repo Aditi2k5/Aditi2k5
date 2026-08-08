@@ -1,6 +1,5 @@
 <h3 align="center">AI/ML Researcher • 3D Vision • Neural Rendering • LLM Systems</h3>
 ## 🧠 About Me
-
 - 🎓 B.Tech CSE Final Year
 - 🔬 Research Intern @ IIIT Hyderabad (Neural Rendering, 3D Vision)
 - 🧪 Focused on **3D Computer Vision and Neural Rendering**
