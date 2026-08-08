@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aditi Prabakaran</h1>
-<p align="center">
-  <img width="1982" height="793" alt="image" src="https://github.com/user-attachments/assets/3a483639-1c69-4bcb-888a-13dbfc5b0d81" />
-</p>
 <h3 align="center">AI/ML Researcher • 3D Vision • Neural Rendering • LLM Systems</h3>
 
 
@@ -48,10 +45,9 @@
 
 ## 🏆 Achievements
 
-- 🎓 **IASc Summer Research Fellowship Recipient** — National fellowship awarded by the Indian Academy of Sciences (IAS); selection rate historically under 2%.
+- 🎓 **IASc Summer Research Fellowship Recipient** — National fellowship awarded by the Indian Academy of Sciences (IAS); selection rate historically under 2%.<br><br>
 - 🏅 **Smart India Hackathon 2025 | National Finalist (Top 5)**   — Selected as a Top 5 finalist from over 50,000 national applicants in the Ministry of Education's flagship engineering competition. <br><br>
-- 🌏 **Google AI for Impact Hackathon** —
-      Selected into the final cohort of 98 teams out of thousands of competing teams across the Asia-Pacific (APAC) region. <br><br>
+- 🌏 **Google AI for Impact Hackathon** - Selected into the final cohort of 98 teams out of thousands of competing teams across the Asia-Pacific (APAC) region. <br><br>
 
 ## 🧰 Tech Stack
 
