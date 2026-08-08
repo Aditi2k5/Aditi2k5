@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditi Prabakaran</h1>
 <h3 align="center">AI/ML Researcher • 3D Vision • Neural Rendering • LLM Systems</h3>
-
-
 ## 🧠 About Me
 
 - 🎓 B.Tech CSE Final Year
