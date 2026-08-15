@@ -7,5 +7,5 @@
 <br>
 
 <p align="center">
-  Check out my <strong><a href="https://aditi2k5.github.io/">personal website</a></strong> for my CV and updates.
+  Check out my <strong><a href="https://aditi2k5.github.io/">personal website</a></strong> for CV and updates.
 </p>
